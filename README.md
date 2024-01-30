@@ -1,6 +1,13 @@
-# Module 8 Server-Side APIs: Weather Dashboard
+## **_Table of contents_** 
 
-## Your Task
+* [description of the assignment](#description-of-the-assignment)
+* [acceptance criteria](#acceptance-criteria)
+* [link url to deployed app on github](#link-url-to-deployed-app-on-github)
+* [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
+* [contact Link url to github repository](#contact-link-url-to-github-repository)
+* [Reference](#Reference)
+
+## Description of the assignment
 
 Server APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
@@ -103,6 +110,17 @@ You are required to submit BOTH of the following for review:
 * The URL of the functional, deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+
+  ## Link URL to deployed app on GitHub 
+  https://khumbulani9.github.io/Server-APIs-Weather-Dashboard/
+  
+
+  ## Contact-link URL to GitHub repository
+
+  https://github.com/khumbulani9/Server-APIs-Weather-Dashboard
+
+
+## Reference
 
 ---
 
