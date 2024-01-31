@@ -1,45 +1,48 @@
-h1 {
-	background-color: darkgrey;
-	text-align: center;
+#info-section {
+  padding-top: 15px;
 }
-label {
-	margin-top: 10px;
-	font-weight: bold;
-	font-size: 20px;
+
+#weather-data {
+  background-color: #75c0f5;
 }
+
+.current-city-data {
+  min-height: 300px;
+}
+
+.table-box {
+  background-color:#4b6584;
+}
+
+tr {
+  margin: 5px;
+}
+
 .card {
-	margin: 10px;
+  background-color: #a5b1c2;
+  margin: 3px;
+  min-height: 300px;
 }
-.colOne {
-	background-color: white;
-	/* darkkhaki */
+
+.hero {
+  background: #3054a8; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #669dd1,
+    #6178d4
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #3143e0,
+    #777ade
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
-.colTwo {
-	background-color: rgb(255, 255, 255);
+
+.title {
+  color: #fff;
 }
-.histBtnRow {
-	margin-top: 5px;
-	margin-bottom: 5px;
-}
-.green{
-  background-color: lightgreen;
-}
-.yellow{
-  background-color: yellow;
-}
-.orange{
-  background-color: orange;
-}
-.red{
-  background-color: red;
-}
-.purple{
-  background-color: purple;
-}
-.icons {
-	height: 70px;
-	width: 70px;
-}
-.cardTodayDate {
-	font-size: 20px;
+
+#submit {
+  width: 100%;
+  margin-bottom: 20px;
 }
