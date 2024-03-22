@@ -1,48 +1,64 @@
-#info-section {
-  padding-top: 15px;
+@import url('')
+* {
+margin: 0;
+padding: 0;
+font-family: 'open sans';
 }
-
-#weather-data {
-  background-color: #75c0f5;
+body {
+  background-color:rgb(219, 219, 221);
 }
-
-.current-city-data {
-  min-height: 300px;
+h1 {
+color: #f0e4e4;
+padding: 20px 0;
+text-align: center;
+font-size: 1.80rem;
+background: #19329a;
 }
-
-.table-box {
-  background-color:#4b6584;
+.container {
+  display: flex;
+  gap: 40px;
+  padding: 20px;
 }
-
-tr {
-  margin: 5px;
+.weather-input input{
+  width: 0%;
+  height: 100px;
+  outline: none;
+  padding: 0 15px;
+  margin: 10px 0 20px 0;
+  font-size: 1.07rem;
+  border-radius: 4px;
+  border: 1px solid;
 }
-
-.card {
-  background-color: #a5b1c2;
-  margin: 3px;
-  min-height: 300px;
+.weather-input .separator{
+ height: 1px;
+ width: 100%;
+ background:rgb(205, 195, 183) 
 }
-
-.hero {
-  background: #3054a8; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #669dd1,
-    #6178d4
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #3143e0,
-    #777ade
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.weather-input {
+  width: 550px;
 }
-
-.title {
-  color: #fff;
+.weather-data {
 }
-
-#submit {
+.weather-input button{
   width: 100%;
-  margin-bottom: 20px;
+  padding: 10px 0;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  colour: rgb(238, 238, 246);
+  font-size: 1rem;
+  border-radius: 4px;
+  background-color: rgb(227, 227, 244);
+}
+.weather-data{
+  width: 100%;
+}
+.weather-input .location-btn{
+  background: rgb(249, 249, 249);
+}
+.col-sm-12{
+  color: rgb(17, 26, 26);
+}
+.row{
+  color: rgb(87, 88, 91);
 }
