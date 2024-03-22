@@ -40,16 +40,12 @@ SO THAT I can plan a trip accordingly
   * When a user click on a city in the search history they are again presented with current and future conditions for that city
  
 
-## Screenshot of the deployed application
+## Schreenshot of the Deployed Application
 
-![Screenshot 2024-03-22 164826](https://github.com/khumbulani9/Server-APIs-Weather-Dashboard/assets/146132836/929cb136-06a4-47b8-b751-fa3e22158422)
+![Screenshot 2024-03-22 223529](https://github.com/khumbulani9/Server-APIs-Weather-Dashboard/assets/146132836/323a218a-6756-4a0c-aed5-9b6933e9efb7)
 
 
-## Mock-Up
 
-The following image shows the web application's appearance and functionality:
-
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for London.](./assets/10-server-side-apis-challenge-demo.png)
 
 ## Grading Requirements
 
@@ -112,6 +108,7 @@ You are required to submit BOTH of the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
   ## Link URL to deployed app on GitHub 
+
   https://khumbulani9.github.io/Server-APIs-Weather-Dashboard/
   
 
